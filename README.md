@@ -15,6 +15,10 @@
 - Following the Traffic rules :), Traveling between banks at 30 km/h.
 - Input is a pandas dataframe with the bank data. Output is a list of bank IDs in order that were robbed
 
+## Output
+- The Algorithm 1 collected a total of $6,439,300
+- The Algorithm 2 collected a total of $11,356,200
+
 ## Check Your Solution
 
 - `check_solution` function from `utils/check_solution.py` can be used to test the validity of the solution and obtain a _score_.
